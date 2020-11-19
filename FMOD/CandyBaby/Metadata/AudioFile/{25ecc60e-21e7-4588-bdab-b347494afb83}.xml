@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{25ecc60e-21e7-4588-bdab-b347494afb83}">
+		<property name="assetPath">
+			<value>smallheart.ogg</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>90</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{67211b9e-fa07-42ad-bbc0-41da8a6d4221}</destination>
+		</relationship>
+	</object>
+</objects>
